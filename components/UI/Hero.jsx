@@ -35,27 +35,7 @@ const Hero = () => {
             <div className={`${classes.heroImg} text-end`}>
               <Image alt="hero-image" src={heroImg} width="400" height="400" />
 
-              <div className={`${classes.hero__skills}`}>
-                <h6>Skills</h6>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-              </div>
+              
 
               <div
                 className={`${classes.hero__experience} d-flex align-items-center gap-3`}
