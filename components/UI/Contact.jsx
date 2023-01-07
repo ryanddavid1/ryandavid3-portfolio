@@ -24,7 +24,7 @@ const Contact = () => {
                 <span>
                   <i className="ri-map-pin-line"></i>
                 </span>
-                <p>Sylhet - Bangladesh</p>
+                <p>Forest Hills, New York </p>
               </li>
               <li className={`${classes.info__item}`}>
                 <span>
