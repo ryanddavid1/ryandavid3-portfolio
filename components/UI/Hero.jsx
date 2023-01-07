@@ -64,8 +64,7 @@ const Hero = () => {
                   <i className="ri-lightbulb-flash-line"></i>
                 </span>
                 <div className="bg-transparent">
-                  <h6>Experience</h6>
-                  <h5 className="mb-0">4 Years</h5>
+                  
                 </div>
               </div>
             </div>
