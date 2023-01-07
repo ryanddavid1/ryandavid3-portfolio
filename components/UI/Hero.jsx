@@ -15,12 +15,10 @@ const Hero = () => {
           <Col lg="6" md="6">
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
-              <h2 className="mt-3 mb-3">I&apos;m Muhibur Rahman</h2>
-              <h5 className="mb-4">Frontend Developer</h5>
+              <h2 className="mt-3 mb-3">I&apos;m Ryan David</h2>
+              <h5 className="mb-4">Security Analyst / System Administrator</h5>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Impedit rem sint ipsa cumque. Atque rem vel iusto impedit omnis
-                quos!
+              Motivated Junior System Administration graduate. I completed a Network Administration and Information Security associate degree in Laguardia Community college. Finish 2 Certificate's with Google and IBM in System Administration. 
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
