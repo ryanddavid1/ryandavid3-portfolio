@@ -18,7 +18,7 @@ const Services = () => {
               </div>
 
               <ServicesItem
-                title="Data Base Administrator"
+                title="DataBase Administrator"
                 icon="ri-code-s-slash-line"
               />
             </div>
@@ -28,7 +28,13 @@ const Services = () => {
             <SectionSubtitle subtitle="What I do" />
             <h3 className="mb-0 mt-4">Ethical Hacking,</h3>
             <h3 className="mb-4">Python Scripts</h3>
-            <p></p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non amet
+              culpa nobis corporis officiis, numquam cupiditate, enim expedita
+              eveniet dolorum, aliquid nesciunt sapiente illo voluptatum!
+              Dolores fuga mollitia atque, placeat minima quibusdam accusantium!
+              Veniam, non distinctio dolorem rerum laboriosam deleniti.
+            </p>
           </Col>
         </Row>
       </Container>
