@@ -17,7 +17,15 @@ const Hero = () => {
               <SectionSubtitle subtitle="Hello" />
               <h2 className="mt-3 mb-3">I&apos;m Ryan David</h2>
               <h5 className="mb-4">Security Analyst / System Administrator / Web developer</h5>
-              <p>Motivated junior Security Analyst and Administration graduate.I completed a Network Administration and Information Security associate degree in Laguardia Community college. Finish 2 Certificate's with Google and IBM in System Administration. In Kali Linux or RedHat Linux able to write scripts in bash and python to automate tasks, or to write scripts to scan a webserver to check for vulnerability's. Able to conduct penetration testing using Burp suite, metasploit, Hydra and immunity debugger. Able to scan the network using Nmap, Nessus, Nikto.</p>
+              <p>Motivated junior Security Analyst and Administration graduate.
+                I completed a Network Administration and Information Security 
+                associate degree in Laguardia Community college. Finish 2 
+                Certificate's with Google and IBM in System Administration. 
+                In Kali Linux or RedHat Linux able to write scripts in bash 
+                and python to automate tasks, or to write scripts to scan a 
+                webserver to check for vulnerability's. Able to conduct penetration 
+                testing using Burp suite, metasploit, Hydra and immunity debugger. 
+                Able to scan the network using Nmap, Nessus, Nikto.</p>
               <div className="mt-5">
                 <button className="primary__btn">
                   <Link href="#">Hire me</Link>
