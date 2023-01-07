@@ -17,11 +17,7 @@ const Hero = () => {
               <SectionSubtitle subtitle="Hello" />
               <h2 className="mt-3 mb-3">I&apos;m Ryan David</h2>
               <h5 className="mb-4">Security Analyst / System Administrator / Web developer</h5>
-              <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Impedit rem sint ipsa cumque. Atque rem vel iusto impedit omnis
-                quos!
-              </p>
+              <p>Motivated junior Security Analyst and Administration graduate</p>
               <div className="mt-5">
                 <button className="primary__btn">
                   <Link href="#">Hire me</Link>
