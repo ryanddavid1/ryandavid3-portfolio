@@ -32,7 +32,7 @@ const Hero = () => {
 
           {/* ========== hero img ============= */}
           <Col lg="6" md="6">
-            <div className={`${classes.hero__img} text-end`}>
+            <div className={`${classes} text-end`}>
               <Image alt="hero-image" src={heroImg} width="400" height="400" />
 
               <div className={`${classes.hero__skills}`}>
